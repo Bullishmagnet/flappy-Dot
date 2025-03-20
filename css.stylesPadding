@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background-color: #222;
+  color: white;
+  padding: 20px;
+}
+
+#adsense-ad {
+  margin: 20px 0;
+}
+
+.game-container {
+  margin: 20px;
+  background-color: #fff;
+  border: 2px solid #ddd;
+  padding: 20px;
+  display: inline-block;
+  position: relative;
+}
+
+footer {
+  background-color: #222;
+  color: white;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
